@@ -1,2 +1,2 @@
 # jeeva-portfolio
-My personal developer portfolio built with HTML, CSS, JavaScript (and React if used) to highlight my work and achievements.
+My personal developer portfolio built with HTML, CSS, JavaScript to highlight my work and achievements.
